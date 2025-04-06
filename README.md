@@ -73,5 +73,5 @@ Some possible improvements include:
 - **Python**: For its versatility in creating cross-platform applications.
 
 ## Contact
-For questions or feedback, please reach out to the project maintainer at [sariram.murari@gmail.com].
+For questions or feedback, please reach out to the project maintainer at [sairam.murari@gmail.com].
 
