@@ -45,6 +45,12 @@ Before running the application, ensure you have the following installed:
    The application will prompt you to enter a username and password.</br>
    Once authenticated, you will have access to the main menu where you can manage the various modules of the system.
 
+## Screenshots
+- **Login Screen**
+  ![WhatsApp Image 2025-04-06 at 09 57 18_03dfda82](https://github.com/user-attachments/assets/edc253a2-1488-4629-b82d-50c30c2237ff)
+- **Main Menu**
+  ![WhatsApp Image 2025-04-06 at 09 59 01_a712b2e4](https://github.com/user-attachments/assets/df5a6e1a-0e01-4ca1-a960-f3e22db4de83)
+
 ## Contribution Guidelines
 Contributions are welcome! If you'd like to contribute to this project, please follow the steps below:
 
